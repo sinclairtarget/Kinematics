@@ -1,0 +1,65 @@
+MODEL SWITCHING:
+1 -- Simple Model
+2 -- Character Model
+
+Click and drag the end effectors to manipulate the models via IK.
+
+Forward Kinematic controls:
+
+====== SIMPLE MODEL CONTROLS ======
+BOTTOM BOX:
+Rotate Left -- A
+Rotate Right -- D
+
+BOTTOM FLAP:
+Open -- Q
+Close -- E
+
+TOP BOX:
+Rotate Left -- J
+Rotate Right -- L
+
+TOP FLAP:
+Open -- I
+Close -- K
+
+====== CHARACTER MODEL CONTROLS ======
+WAIST:
+Rotate Left -- Z
+Rotate Right -- C
+
+TORSO:
+Rotate Left -- A
+Rotate Right -- D
+
+HEAD:
+Rotate Left -- Q
+Rotate Right -- E
+
+LEFT SHOULDER:
+Rotate Down -- Y
+Rotate Up -- U
+
+LEFT UPPER ARM:
+Rotate In -- I
+Rotate Out -- O
+
+LEFT LOWER ARM:
+Rotate Up -- P
+Rotate Down -- [
+
+RIGHT SHOULDER:
+Rotate Down -- H
+Rotate Up -- J
+
+RIGHT UPPER ARM:
+Rotate In -- K
+Rotate Out -- L
+
+RIGHT LOWER ARM:
+Rotate Up -- ;
+Rotate Down -- '
+
+LEFT THIGH:
+Rotate Up -- 4
+Rotate Down -- R
