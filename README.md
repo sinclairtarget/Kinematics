@@ -1,4 +1,4 @@
-[Imgur](http://i.imgur.com/AcYZHut.gifv)
+![](http://i.imgur.com/AcYZHut.gifv)
 
 'ant' should be sufficient to build and run the program, provided you have
 ant installed. Tested on OS X.
